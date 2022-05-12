@@ -1,0 +1,13 @@
+C:\MVC_Activos\Business_Logic\bin\Debug\Business_Logic.dll
+C:\MVC_Activos\Business_Logic\bin\Debug\Business_Logic.pdb
+C:\MVC_Activos\Business_Logic\bin\Debug\Data_Base.dll
+C:\MVC_Activos\Business_Logic\bin\Debug\Entities.dll
+C:\MVC_Activos\Business_Logic\bin\Debug\log4net.dll
+C:\MVC_Activos\Business_Logic\bin\Debug\Data_Base.pdb
+C:\MVC_Activos\Business_Logic\bin\Debug\Entities.pdb
+C:\MVC_Activos\Business_Logic\bin\Debug\log4net.xml
+C:\MVC_Activos\Business_Logic\obj\Debug\Business_Logic.csproj.AssemblyReference.cache
+C:\MVC_Activos\Business_Logic\obj\Debug\Business_Logic.csproj.CoreCompileInputs.cache
+C:\MVC_Activos\Business_Logic\obj\Debug\Business_Logic.csproj.CopyComplete
+C:\MVC_Activos\Business_Logic\obj\Debug\Business_Logic.dll
+C:\MVC_Activos\Business_Logic\obj\Debug\Business_Logic.pdb

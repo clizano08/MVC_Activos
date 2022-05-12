@@ -1,0 +1,17 @@
+C:\MVC_Activos\Data_Base\bin\Debug\Data_Base.dll
+C:\MVC_Activos\Data_Base\bin\Debug\Data_Base.pdb
+C:\MVC_Activos\Data_Base\bin\Debug\Entities.dll
+C:\MVC_Activos\Data_Base\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\MVC_Activos\Data_Base\bin\Debug\System.Security.AccessControl.dll
+C:\MVC_Activos\Data_Base\bin\Debug\System.Security.Permissions.dll
+C:\MVC_Activos\Data_Base\bin\Debug\System.Security.Principal.Windows.dll
+C:\MVC_Activos\Data_Base\bin\Debug\Entities.pdb
+C:\MVC_Activos\Data_Base\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\MVC_Activos\Data_Base\bin\Debug\System.Security.AccessControl.xml
+C:\MVC_Activos\Data_Base\bin\Debug\System.Security.Permissions.xml
+C:\MVC_Activos\Data_Base\bin\Debug\System.Security.Principal.Windows.xml
+C:\MVC_Activos\Data_Base\obj\Debug\Data_Base.csproj.AssemblyReference.cache
+C:\MVC_Activos\Data_Base\obj\Debug\Data_Base.csproj.CoreCompileInputs.cache
+C:\MVC_Activos\Data_Base\obj\Debug\Data_Base.csproj.CopyComplete
+C:\MVC_Activos\Data_Base\obj\Debug\Data_Base.dll
+C:\MVC_Activos\Data_Base\obj\Debug\Data_Base.pdb
